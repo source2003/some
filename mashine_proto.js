@@ -30,6 +30,8 @@
             coffeeMachine.enable();
 
             console.log(coffeeMachine._enabled);
+            console.log('Github');
+            
         </script>
     </body>
 </html>
